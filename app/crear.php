@@ -17,7 +17,7 @@
                 <input type="number" class="form-control" id="piso" name="piso" required>
             </div>
             <div class="mb-3">
-                <label for="numero" class="form-label">Numero</label>
+                <label for="numero" class="form-label">Numero de habitacion</label>
                 <input type="number" class="form-control" id="numero" name="numero" required>
             </div>
             <div class="mb-3">
